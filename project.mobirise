@@ -256,7 +256,9 @@
       }
     ],
     "uniqCompNum": 0,
-    "imageResize": true
+    "imageResize": true,
+    "publishChangesOnly": false,
+    "publishEditFolder": false
   },
   "pages": {
     "index.html": {
