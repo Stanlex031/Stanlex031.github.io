@@ -263,11 +263,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Portfolio Stanisława",
-        "meta_descr": "Tworzę prezentacje multimedialne, które są krótkie, zwięzłe i na temat. Zapraszam do zapoznania się z moją pracą!",
+        "title": "Darmowe prezentaacje PowerPoint",
+        "meta_descr": "Tworzę darmowe prezentacje multimedialne za pomocą programu MS PowerPoint",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "socialSharingUrl": ""
       },
       "components": [
         {
